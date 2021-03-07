@@ -1,0 +1,37 @@
+
+    /* LANDING */
+
+    .section-photos {
+        padding-top: 4vw; 
+        padding-bottom: 4vw;
+
+    }
+
+    .active-link {
+       color: #b388ff;
+       font-weight: bold;
+     }
+
+    p {
+        font-family: 'Courier New', Courier, monospace;
+    }
+
+    h1 {
+       font-family: 'Courier New', Courier, monospace; 
+    }
+    h2 {
+       font-family: 'Courier New', Courier, monospace; 
+    }
+    h3 {
+       font-family: 'Courier New', Courier, monospace; 
+       
+    }
+    h4 {
+       font-family: 'Courier New', Courier, monospace; 
+    }
+    h5 {
+       font-family: 'Courier New', Courier, monospace; 
+    } 
+   
+
+    
